@@ -95,8 +95,7 @@ int x = 0;
 
 uint32_t comando;
 uint32_t comando1;
-uint32_t comando2;
-uint32_t comando7;
+
 
 /* USER CODE END PD */
 
